@@ -1,6 +1,6 @@
 # Bike Sharing Pattern Prediction
 
-This repository contains a project developed under the Ddacity Deep Learning nanodegree program. We create a neural network from scrach using python to predict pattern of bike-sharing usage.
+This repository contains a project developed under the Udacity Deep Learning nanodegree program. We create a neural network from scrach using python to predict pattern of bike-sharing usage.
 
 
 ![Imgur](https://i.imgur.com/JWUlqXh.png)
